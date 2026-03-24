@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "D×H×C×T",
+  "base_artist": "ROOKiEZ is PUNK'D",
+  "createdAt": "2026-03-24T22:13:13.861438Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "D×H×C×T",
+      "artist": "Rookiez Is Punk'd",
+      "has_synced": false,
+      "path": "select/01_D×H×C×T_Rookiez_Is_Punk'd.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "D×H×C×T",
+      "artist": "ROOKiEZ is PUNK’D",
+      "has_synced": false,
+      "path": "select/02_D×H×C×T_ROOKiEZ_is_PUNK’D.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "D×H×C×T",
+      "artist": "ROOKiEZ is PUNK'D",
+      "has_synced": false,
+      "path": "select/pl_01_D×H×C×T_ROOKiEZ_is_PUNK'D.txt"
+    }
+  ]
+}
